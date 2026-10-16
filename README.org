@@ -1,0 +1,66 @@
+* Martha's Rules
+From https://journals.sagepub.com/doi/10.1177/088610998600100206.
+
+Developed at [[https://en.wikipedia.org/wiki/Madison_Community_Cooperative][Martha's Housing Co-op]] for families in Madison, WI.  Recommended by [[https://gvwilson.github.io/change/meetings/#notes][Greg Wilson]] if more than half a dozen people are involved in decision-making.
+
+** Participant skills
+- Willing and able to listen to what others are saying
+- Trusting enough and brave enough to speak their minds
+- Care about the group's welfare as well as their own
+- Shed intense personal attachments to favored ideas
+
+** Preparation
+- Facilitator should know topic under discussion ahead of time
+- Participants should know topic under discussion ahead of time
+- Facilitator should propose agenda and estimated time limits on the discussion to which the group should agree before proceeding
+
+** Generating proposals
+- Necessary when a participant raises an issue but a specific proposal has not been presented to the group
+- Brainstorm suggestions
+
+** Making proposals concrete
+- Facilitator tries to bring together the ideas into one or more proposals
+- What's the budget?
+- Who is the authoritative decision maker?
+- What are the different goals underlying each suggestion?
+- Who is willing to work on implementing the proposal?
+
+** Voting: The "sense" vote
+- Facilitator states the proposal
+- Facilitator takes a hand count of the following questions
+	- Who /likes/ the proposal?
+	- Who /can live with/ the proposal?
+	- Who is /uncomfortable/ with the proposal?
+- Facilitator repeats this process with all the proposals on a topic.
+
+Example: interpreting the results of the sense vote at a meeting of 20 people
+
+| Proposal | Like it | Can live with it | Uncomfortable | Response                                                                                              |
+|----------+---------+------------------+---------------+-------------------------------------------------------------------------------------------------------|
+| A        |       4 |                6 |            10 | Ditch it--not enough support                                                                          |
+| B        |       7 |                4 |             9 | Try for a more palatable proposal, but run it through the "vote" vote                                 |
+| C        |       8 |                7 |             5 | Run through the "vote" vote                                                                           |
+| D        |       3 |               15 |             2 | Suggest that 3 and 2 discuss the issue further among the selves; the meeting as a whole does not care |
+
+** Voting: The "vote" vote
+- Facilitator asks those who were uncomfortable to state the reasons for their discomfort
+	- Suggested time limit of 2 minutes per person
+	- Facilitator may allow questions and answers
+	- Facilitator should diffuse bitter dialogues (usually a sign that there is some other issue at stake that hasn't been brought out)
+- After hearing the objections of those who are uncomfortable, take a vote
+	- The question is, /"Should we implement this decision over the stated objections of the minority, when a majority of us feel it is workable?"/
+	- A "yes" vote means that /majority rule/ is favored in this case
+	- A "no" vote means that the person favors /postponing the decision/
+- If "yes" votes have the numerical majority then the proposal has been adopted
+- If "no votes have a numerical majority, the proposal under consideration has been defeated, status quo has been maintained, and there are several options:
+	- Generate a new proposal, taking into account the objections raised by those who are uncomfortable
+	- Continue discussing the issues until those who are uncomfortable change their minds
+	- Accept that the issue cannot be decided at this time and bring it up later in the hope that time and further (private) discussion will allow a new proposal to be adopted
+
+** Implementation and review
+- Facilitator should state the adopted proposal and make sure everyone agrees to it
+- Implementation is the final test of the workability of the decision
+	- It should be clear what will be done
+	- It should be clear who will do it
+	- It should be clear what criteria will be used to judge when the job is done
+	- It should be clear whether and when the decision should be reviewed
